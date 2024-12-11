@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372911-3923-4F02-8759-39BA043F5D14}|TastyWaves.Tests\\TastyWaves.Tests.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372911-3923-4F02-8759-39BA043F5D14}|TastyWaves.Tests\\TastyWaves.Tests.csproj|solutionrelative:tastywaves.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D372911-3923-4F02-8759-39BA043F5D14}|TastyWaves.Tests\\TastyWaves.Tests.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D372911-3923-4F02-8759-39BA043F5D14}|TastyWaves.Tests\\TastyWaves.Tests.csproj|solutionrelative:tastywaves.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\imenuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\interfaces\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\interfaces\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\menuitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\repositories\\implementations\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\repositories\\implementations\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|c:\\users\\amma\\source\\repos\\tastywaves\\tastywaves\\migrations\\20241201113940_adduseridtorestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C314BB0-7595-469F-838C-990468AF86E4}|TastyWaves\\TastyWaves.csproj|solutionrelative:tastywaves\\migrations\\20241201113940_adduseridtorestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\RestaurantDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\RestaurantDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\RestaurantDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\RestaurantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:30:46.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\OrderItemDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\OrderItemDTO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:22:08.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UpdateUserDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:26:18.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UserLoginDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:25:38.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves.Tests\\ControllerTests.cs",
+              "RelativeDocumentMoniker": "TastyWaves.Tests\\ControllerTests.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves.Tests\\ControllerTests.cs",
+              "RelativeToolTip": "TastyWaves.Tests\\ControllerTests.cs",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAgwN0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:02:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TastyWaves\\Controllers\\UserController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAYwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:23:02.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TastyWaves\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAYwKQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:28:01.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UserProfileDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\UserProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:25:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TastyWaves.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TastyWaves.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:01:32.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\UserRegisterDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:25:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\MenuItemDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\MenuItemDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\MenuItemDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\MenuItemDTO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:11:39.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\CartItemDTO.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\DTO\\CartItemDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\DTO\\CartItemDTO.cs",
+              "RelativeToolTip": "TastyWaves\\DTO\\CartItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:16:32.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TastyWaves\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:30:48.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "TastyWaves\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAYwJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:25:38.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Controllers\\MenuItemController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "TastyWaves\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwI8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:26:10.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\CartController.cs",
+              "RelativeToolTip": "TastyWaves\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:26:35.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TastyWaves\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwGIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:44:49.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\appsettings.json",
+              "RelativeDocumentMoniker": "TastyWaves\\appsettings.json",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\appsettings.json",
+              "RelativeToolTip": "TastyWaves\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T07:42:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Program.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Program.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Program.cs",
+              "RelativeToolTip": "TastyWaves\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwE4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:44:15.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:34:21.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\IRestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:36:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:38:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:39:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\IMenuItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:36:36.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:37:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Interfaces\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Interfaces\\ICartItemRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Interfaces\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:38:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:34:40.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\RestaurantRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:36:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\OrderRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:39:10.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:39:44.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MenuItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\MenuItemRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:36:59.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\CartRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\CartRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\CartRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:37:58.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Repositories\\Implementations\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Repositories\\Implementations\\CartItemRepository.cs",
+              "RelativeToolTip": "TastyWaves\\Repositories\\Implementations\\CartItemRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:38:32.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\User.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:28:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\Restaurant.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:32:37.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\OrderItem.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:34:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\Order.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:33:51.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\MenuItem.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\MenuItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:32:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\CartItem.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:33:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Models\\Cart.cs",
+              "RelativeToolTip": "TastyWaves\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:33:18.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241201113940_AddUserIdToRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Migrations\\20241201113940_AddUserIdToRestaurant.cs",
+              "RelativeDocumentMoniker": "TastyWaves\\Migrations\\20241201113940_AddUserIdToRestaurant.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\TastyWaves\\TastyWaves\\Migrations\\20241201113940_AddUserIdToRestaurant.cs",
+              "RelativeToolTip": "TastyWaves\\Migrations\\20241201113940_AddUserIdToRestaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:39:41.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
